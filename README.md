@@ -14,7 +14,9 @@
 This project was developed using the following technologies:
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [Express](https://expressjs.com/pt-br/)
+- [Express](https://expressjs.com/)
+- [TypeORM](https://typeorm.io/#/)
+- [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)>>
 
 ## 💻 Project
 
