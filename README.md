@@ -20,7 +20,7 @@ This project was developed using the following technologies:
 
 ## 💻 Project
 
-O support-chat is an app that offers a real-time support chat (like those E-commerce chats)
+support-chat is an app that offers a real-time support chat (like those E-commerce chats)
 
 This Project was developed during the NodeJS path in the fifth edition of NLW (Next Level Week). We learned concepts about what is an API, starting a project using Typescript and Express for route management.
 
